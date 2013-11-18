@@ -65,7 +65,7 @@ Alternatively, you can also pass an array of objects to be serialized, in which 
 properties will be iterated over.  E.g.:
 
 ```js
-res.csv([ { name: "joe", id: 1 }]
+res.csv([ { name: "joe", id: 1 }])
 //=> "joe", 1
 ```
 
